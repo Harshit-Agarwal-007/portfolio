@@ -15,8 +15,6 @@ export const projects = [
         "As part of my ongoing commitment to professional development and showcasing my skills, I undertook a project to create a dynamic and responsive personal website. Technologies Used: HTML, CSS, REACTJS, TAILWIND CSS,Javascript",
       link: "https://github.com/Harshit-Agarwal-007",
     },
-,
-
  
   ];
  
